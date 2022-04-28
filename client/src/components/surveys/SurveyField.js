@@ -2,6 +2,7 @@
 // label and text input
 import React from 'react';
 
+// eslint-disable-next-line
 export default ({ input, label }) => {
   return (
     <div>

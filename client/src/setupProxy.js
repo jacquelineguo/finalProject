@@ -5,7 +5,7 @@ module.exports = function (app) {
     createProxyMiddleware({
      // target: "http://host.docker.internal:5000",
      // target: "http://localhost:4000",
-      target: "http://ec2-35-173-49-155.compute-1.amazonaws.com:5000",
+      target: "http://ec2-3-231-0-8.compute-1.amazonaws.com:5000",
 
 
       secure: false,
